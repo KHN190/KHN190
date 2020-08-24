@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHN190&layout=compact" align="right">
 
-<!--
-**KHN190/KHN190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello 🌙 
 
-Here are some ideas to get you started:
+Currently in a gamde design & devlopment grad project at RIT. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Doing:
+- Crafting an [interpreter](https://github.com/KHN190/rlox), as well as coding using Rust.
+- Organizing a physical campus with remote game dev students / friends in China, at a Southern suburban area in Beijing.
+- Having four full credit classes including design, engineering and project management.
+
+Public stuffs I made:
+- Some comopute shaders in Unity, see my pinned projects.
+- A procedural generated [puzzle game](https://github.com/KHN190/Mondrian) for GMTK
+
+Links:
+- [Twitter](http://twitter.com/knh1901)
+- [LinkedIn](https://www.linkedin.com/in/凌霄-余-587483123/)
