@@ -13,11 +13,6 @@ Public stuffs I made:
 - Some comopute shaders in Unity, see my pinned projects.
 - A procedural generated [puzzle game](https://github.com/KHN190/Mondrian) for GMTK
 
-Private stuffs I made:
-- Worked in a gene analysis company and made data pipeline / algorithms.
-- Websites, full stack / backend, for food...
-- Half dozen of failed jam games.
-
 Links:
 - [Twitter](http://twitter.com/knh1901)
 - [LinkedIn](https://www.linkedin.com/in/凌霄-余-587483123/)
