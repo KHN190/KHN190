@@ -2,17 +2,20 @@
 
 # Hello 🌙 
 
-Currently in a gamde design & devlopment grad project at RIT. 
+Currently graduate gamde design & devlopment student at RIT. 
 
 Doing:
 - Crafting an [interpreter](https://github.com/KHN190/rlox), as well as coding using Rust.
-- Organizing a physical campus with remote game dev students / friends in China, at a South suburban area in Beijing.
-- Having four full credit classes including design, engineering and project management.
+- A design course, an AI course and a software management course. I recently fell in love with psychoanalysis readings that was accidently brought into my design course.
 
 Public stuffs I made:
 - Some comopute shaders in Unity, see my pinned projects.
 - A procedural generated [puzzle game](https://github.com/KHN190/Mondrian) for GMTK
+- A [3D hex map editor / generator](https://github.com/KHN190/HexMapEditor) in Unity. Intend to provide a framework for hexagon games.
+
+Plans:
+- A turn based framework can undo / redo and support RTS mode.
+- Use game mechanics to form a narrative, e.g. tell a story using physics simulation.
 
 Links:
-- [Twitter](http://twitter.com/knh1901)
 - [LinkedIn](https://www.linkedin.com/in/凌霄-余-587483123/)
