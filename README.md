@@ -5,12 +5,9 @@
 Currently graduate gamde design & devlopment student at RIT. 
 
 Public stuffs I made:
-- Some comopute shaders in Unity.
-- A procedural generated [puzzle game](https://github.com/KHN190/Mondrian) for GMTK.
-- A [3D hex map editor / generator](https://github.com/KHN190/HexMapEditor) in Unity. Intend to provide a framework for hexagon games.
-- A [turn based framework](http://github.com/KHN190/miniStrategy) can undo / redo and support RTS mode.
-- A [5-minutes walking sim](http://github.com/KHN190/LightOfDarkness) about different time scales we perceive.
-- A [5-minutes walking sim](https://github.com/5-mins-games/OneSeriousProblem) about suicide.
+- Some comopute shaders + tools + games in Unity.
+- I create games in [five minutes game](https://github.com/5-mins-games) project.
+- I create a game engine in [lucien](https://github.com/LuciEngine) project.
 - Handcrafted [interpreter](https://github.com/KHN190/rlox) in Rust.
 
 Links:
