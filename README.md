@@ -2,7 +2,7 @@
 
 # Hello 🌙 
 
-Currently graduate gamde design & devlopment student at RIT. 
+Currently graduate game design & devlopment student at RIT. 
 
 Public stuffs I made:
 - Some compute shaders + tools + games in Unity.
