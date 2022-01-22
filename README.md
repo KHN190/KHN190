@@ -15,8 +15,6 @@ Art stuffs:
 - A small [poetry solo exhibition](https://latitudegalleryny.com/blogs/exhibitons/lingxiao-eyes-of-dragonfly), Latitude Gallery, Brooklyn, July, 2021.
 - Working on new media contents.
 
-I'm currently working on a short digital documentary which tracks eye movement and blinks to interact with a chunk of memory. Should be out before end of October. If there're collaborations, send me an email, or ping me on [Instagram](https://www.instagram.com/knh190/).
-
 <img src="https://github-readme-stats.vercel.app/api?username=KHN190&show_icons=true" align="right">
 
 Links:
