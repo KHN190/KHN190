@@ -6,11 +6,12 @@ Currently Game Design & Devlopment M.S. at RIT (2020 ~ 2022).
 
 **For recruiters**
 
-I have about three years working experience as a software engineer, with hands-on experience in web development, data pipeline, NLP and graphics. Most recent languages I use are Rust and C#. As for C++, I'm fine using it in a code test though I mainly write Rust for large projects.
+I have about three years working experience as a software engineer, with hands-on experience in web development, data pipeline, NLP and graphics. Most recent languages I use are Rust and C#. I'm fine using C++ in a code test though I mainly write Rust for large projects.
 
 Public stuffs I made:
 - I created a game engine as [lucien](https://github.com/LuciEngine) project.
 - I create games in [five minutes game](https://github.com/5-mins-games) project.
+- [Graphics](https://github.com/KHN190/IGME-740) on OpenGL with C++.
 - Handcrafted lox-lang [interpreter](https://github.com/KHN190/rlox) in Rust.
 - Handcrafting wren-lang [interpreter](https://github.com/KHN190/Starling) in Rust.
 - Shaders + tools + games in Unity.
