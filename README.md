@@ -16,8 +16,8 @@ Experience:
 * Graphics programmer at Microsoft (2022 ~ Present).
 
 Public stuffs I made:
-- I created a game engine as [lucien](https://github.com/LuciEngine) project.
-- I create games in [five minutes game](https://github.com/5-mins-games) project.
+- [Lucien](https://github.com/LuciEngine) game engine.
+- [Five minutes game](https://github.com/5-mins-games) project.
 - [Graphics](https://github.com/KHN190/IGME-740) on OpenGL with C++.
 - Handcrafted lox-lang [interpreter](https://github.com/KHN190/rlox) in Rust.
 - Handcrafting wren-lang [interpreter](https://github.com/KHN190/Starling) in Rust.
