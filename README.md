@@ -1,13 +1,19 @@
 <p><pre align="center">
-<strong>Lingxiao Yu /</strong> <a href="https://khn190.github.io/">Personal</a> / <a href="https://www.linkedin.com/in/凌霄-余-587483123/">LinkedIn</a> / <a href="https://knh190.itch.io">Itch</a>
+<strong>Social Links /</strong> <a href="https://khn190.github.io/">Personal</a> / <a href="https://www.linkedin.com/in/凌霄-余-587483123/">LinkedIn</a> / <a href="https://knh190.itch.io">Itch</a> / <a href="https://m.cmx.im/@knh190">Mastodon</a>
 </pre></p>
 
 # Hello 🌙 
 
-* Game Design & Devlopment M.S. at RIT (2020 ~ 2022). 
-* Graphics programmer at Microsoft (2022 ~ Present).
+<a href="#"><img src="https://metrics.lecoq.io/KHN190?template=classic&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York" align="left" width="47.5%"></img></a>
 
-![Metrics](https://metrics.lecoq.io/KHN190?template=classic&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
+<a href="#"><img src="https://metrics.lecoq.io/KHN190?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=America%2FNew_York" align="right" width="47.5%"></img></a>
+
+# Intro
+
+Experience:
+
+* Game Design & Devlopment M.S. at RIT (2020 ~ 2022).
+* Graphics programmer at Microsoft (2022 ~ Present).
 
 Public stuffs I made:
 - I created a game engine as [lucien](https://github.com/LuciEngine) project.
@@ -19,6 +25,4 @@ Public stuffs I made:
 
 Art stuffs:
 - A small [poetry solo exhibition](https://latitudegalleryny.com/blogs/exhibitons/lingxiao-eyes-of-dragonfly), Latitude Gallery, Brooklyn, July, 2021.
-- Working on new media technologies.
-
-<img src="https://github-readme-stats.vercel.app/api?username=KHN190&show_icons=true" align="right">
+- Working on new media technologies / narrative games.
