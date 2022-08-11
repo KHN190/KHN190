@@ -1,12 +1,13 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHN190&layout=compact" align="right">
+<p><pre align="center">
+<strong>Lingxiao Yu /</strong> <a href="https://khn190.github.io/">Personal</a> / <a href="https://www.linkedin.com/in/凌霄-余-587483123/">LinkedIn</a> / <a href="https://knh190.itch.io">Itch</a>
+</pre></p>
 
 # Hello 🌙 
 
-Currently Game Design & Devlopment M.S. at RIT (2020 ~ 2022). 
+* Game Design & Devlopment M.S. at RIT (2020 ~ 2022). 
+* Graphics programmer at Microsoft (2022 ~ Present).
 
-**For recruiters**
-
-I have about three years working experience as a software engineer, with hands-on experience in web development, data pipeline, NLP and graphics. Most recent languages I use are Rust and C#. I'm fine using C++ in a code test though I mainly write Rust for large projects.
+![Metrics](https://metrics.lecoq.io/KHN190?template=classic&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
 
 Public stuffs I made:
 - I created a game engine as [lucien](https://github.com/LuciEngine) project.
@@ -21,8 +22,3 @@ Art stuffs:
 - Working on new media technologies.
 
 <img src="https://github-readme-stats.vercel.app/api?username=KHN190&show_icons=true" align="right">
-
-Links:
-- [Personal](https://khn190.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/凌霄-余-587483123/)
-- [Itch](https://knh190.itch.io)
