@@ -26,5 +26,5 @@ Public stuffs I made:
 - Shaders + tools + games in Unity.
 
 Art stuffs:
-- A small [poetry solo exhibition](https://latitudegalleryny.com/blogs/exhibitons/lingxiao-eyes-of-dragonfly), Latitude Gallery, Brooklyn, July, 2021.
+- A small poetry solo exhibition, Latitude Gallery, Brooklyn, July, 2021.
 - Working on new media technologies / narrative games.
