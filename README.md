@@ -4,16 +4,18 @@
 
 # Hello 🌙 
 
-<a href="#"><img src="https://metrics.lecoq.io/KHN190?template=classic&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York" align="left" width="47.5%"></img></a>
-
-<a href="#"><img src="https://metrics.lecoq.io/KHN190?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=America%2FNew_York" align="right" width="47.5%"></img></a>
+<p float="left">
+	<img alt="Lingxiao's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KHN190&show_icons=true&theme=transparent"/>
+	<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHN190&layout=compact&&langs_count=8"/>
+</p>
 
 # Intro
 
 Experience:
 
 * Game Design & Devlopment M.S. at RIT (2020 ~ 2022).
-* Graphics programmer at Microsoft (2022 ~ Present).
+* ex Software Engineer II at Microsoft (2022 ~ 2025).
+* Digital Artist.
 
 Public stuffs I made:
 - [Lucien](https://github.com/LuciEngine) game engine.
