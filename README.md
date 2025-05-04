@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Social Links /</strong> <a href="https://khn190.github.io/">Personal</a> / <a href="https://www.linkedin.com/in/凌霄-余-587483123/">LinkedIn</a> / <a href="https://knh190.itch.io">Itch</a> / <a href="https://m.cmx.im/@knh190">Mastodon</a>
+<strong>Social Links /</strong> <a href="https://khn190.github.io/">Personal</a> / <a href="https://www.linkedin.com/in/凌霄-余-587483123/">LinkedIn</a> / <a href="https://knh190.itch.io">Itch</a> / <a href="https://m.cmx.im/@knh190">Mastodon</a> / <a href="https://www.youtube.com/@the-rusty-blue">YouTube</a>
 </pre></p>
 
 # Hello 🌙 
